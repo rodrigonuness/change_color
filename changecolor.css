@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+input#button{
+    border-radius: 28px;
+    padding: 20px;
+    font-size: 24pt;
+    background-color: rgb(0, 0, 255);
+    border-color: springgreen;
+    border-bottom: springgreen 8px solid;
+    border-right: springgreen 5px solid;
+}
+input#color{
+    padding: 20px;
+    font-size: 24pt;
+    border-radius: 28px;
+    border-color: springgreen;
+    border-bottom: springgreen 8px solid;
+    border-right: springgreen 5px solid;
+}
